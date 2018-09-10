@@ -1,5 +1,5 @@
 {
-  "name": "mqtt",
+  "name": "@gridplus/mqtt",
   "description": "A library for the MQTT protocol",
   "version": "2.17.0",
   "contributors": [
