@@ -107,5 +107,8 @@
     "env": [
       "mocha"
     ]
+  },
+  "publishConfig": {
+    "registry": "https://nexus.gridpl.us/repository/npm-private/"
   }
 }
