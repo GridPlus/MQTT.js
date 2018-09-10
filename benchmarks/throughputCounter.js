@@ -1,5 +1,3 @@
-#! /usr/bin/env node
-
 var mqtt = require('../')
 
 var client = mqtt.connect({ port: 1883, host: 'localhost', clean: true, encoding: 'binary', keepalive: 0 })
